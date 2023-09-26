@@ -29,7 +29,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 ## Notes
 
-This project allowed me to exoplore Logcat, compiler error lines, stack calls, Android Studio, Kotlin, and XML
+This project allowed me to exoplore and polish my skills on Logcat, Exceptions, stack calls, Android Studio, Kotlin, and XML
 
 ## License
 

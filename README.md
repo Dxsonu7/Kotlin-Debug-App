@@ -1,8 +1,6 @@
-# AND101 Project 2 - Kotlin Debug-a-thon
 
-Submitted by: **Sonu Gupta**
+# ANDROID Project 2 - Kotlin Debug-a-thon
 
-Time spent: **1** hours spent in total
 
 ## Summary
 
